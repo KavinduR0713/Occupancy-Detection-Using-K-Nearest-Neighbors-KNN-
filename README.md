@@ -1,0 +1,2 @@
+# Occupancy-Detection-Using-K-Nearest-Neighbors-KNN-
+This project focuses on the implementation of a K-Nearest Neighbors (KNN) algorithm to predict occupancy status based on sensor data. The primary goal is to classify whether a room is occupied or not based on various environmental factors. The dataset contains readings from different sensors, including temperature, humidity, light, and CO2 levels.
